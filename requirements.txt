@@ -1,0 +1,4 @@
+pytesseract
+Pillow
+tk # tkinter
+python-docx
